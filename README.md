@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @giansluca
-- 👀 I’m interested in proa
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gian Luca
+- 👀 I’m interested in programming and cybersecurity
 
 <!---
 giansluca/giansluca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
